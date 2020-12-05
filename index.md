@@ -1,4 +1,26 @@
-## Welcome to GitHub Pages
+## Bienvenido!
+
+Educacion en Data Science, Machine Learning, Estadistica y Matematica aumenta en el mundo
+
+Papers de publicacion estan en ingles y hay una barrera cultural del idioma.
+Estas tecnicas usualmente estan en programadas de posgrados los cuales son extremadamente costosos en muchos casos.
+Videos en internet presentan largos tiempos de video, densos, aburridos y material que no es esteticamente agradable.
+
+Esfuerzo por mejorar el material disponible a traves de animaciones y demos faciles de acceder.
+
+
+## Que es Machine Learning
+
+
+## Areas de Machine learning
+
+### Supervised Learning
+
+
+### Unsupervised Learning
+
+### Reinforcement Learning
+
 
 You can use the [editor on GitHub](https://github.com/JuanUngredda/LATAMaths/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
