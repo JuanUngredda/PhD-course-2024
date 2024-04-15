@@ -1,59 +1,20 @@
-## Bienvenido!
+# Welcome to the PhD Course on Gaussian Processes and Bayesian Optimization
 
-Educacion en Data Science, Machine Learning, Estadistica y Matematica aumenta en el mundo
-
-Papers de publicacion estan en ingles y hay una barrera cultural del idioma.
-Estas tecnicas usualmente estan en programadas de posgrados los cuales son extremadamente costosos en muchos casos.
-Videos en internet presentan largos tiempos de video, densos, aburridos y material que no es esteticamente agradable.
-
-Esfuerzo por mejorar el material disponible a traves de animaciones y demos faciles de acceder.
+Welcome to the site for the PhD course on Gaussian Processes and Bayesian Optimization! This course aims to provide a comprehensive understanding of Gaussian processes and their applications in Bayesian optimization, a powerful framework for optimizing costly black-box functions.
 
 
-## Que es Machine Learning
+## Gaussian Processes
+
+You can find the slides for each session below:
+
+1. [Gaussian Processes: Master Normality]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuanUngredda/PhD_course/HEAD?labpath=Gaussian_Processes.ipynb))
+
+## Additional Resources
 
 
-## Areas de Machine learning
 
-### Supervised Learning
+## Contact
 
+If you have any questions or feedback, feel free to reach out to [ungredda@esteco.com](mailto:ungredda@esteco.com).
 
-### Unsupervised Learning
-
-### Reinforcement Learning
-
-
-You can use the [editor on GitHub](https://github.com/JuanUngredda/LATAMaths/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuanUngredda/LATAMaths/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Happy learning!
