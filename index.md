@@ -3,11 +3,12 @@
 Welcome to the site for the PhD course on Gaussian Processes and Bayesian Optimization! This course aims to provide a comprehensive understanding of Gaussian processes and their applications in Bayesian optimization, a powerful framework for optimizing costly black-box functions.
 
 
-## Gaussian Processes: Master Normality
+## Gaussian Processes: Master Normality [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuanUngredda/PhD_course/HEAD?urlpath=%2Fnotebooks%2FGaussian_Processes.ipynb) [![View Notebook on nbviewer](https://img.shields.io/badge/nbviewer-slides%20-green)](https://nbviewer.org/github/JuanUngredda/PhD_course/blob/main/Gaussian_Processes.ipynb)
 
+This session is designed to introduce Gaussian processes in a practical way. The key aspects of Gaussian process covered are: basics on the uni-multivariate normal distribution, Gaussian process regression, the covariance function (aka kernels), sampling a Gaussian process, and hyperparameter tuning. 
 
-Slides [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuanUngredda/PhD_course/HEAD?urlpath=%2Fnotebooks%2FGaussian_Processes.ipynb) [![View Notebook on nbviewer](https://img.shields.io/badge/nbviewer-slides%20-green
-)](https://nbviewer.org/github/JuanUngredda/PhD_course/blob/main/Gaussian_Processes.ipynb)
+**Lab**
+
 
 ## Additional Resources
 
