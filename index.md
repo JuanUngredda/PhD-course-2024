@@ -7,7 +7,7 @@ Welcome to the site for the PhD course on Gaussian Processes and Bayesian Optimi
 
 This session is designed to introduce Gaussian processes in a practical way. The key aspects of Gaussian process covered are: basics on the uni-multivariate normal distribution, Gaussian process regression, the covariance function (aka kernels), sampling a Gaussian process, and hyperparameter tuning. 
 
-**Lab**
+**Lab** [![lab_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-JT5nZmXHOzYBxH6-wTCrHVZUexuJ6BG?usp=sharing)
 
 
 ## Additional Resources
