@@ -10,6 +10,12 @@ This session is designed to introduce Gaussian processes in a practical way. The
 **Lab** [![lab_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-JT5nZmXHOzYBxH6-wTCrHVZUexuJ6BG?#forceEdit=true&sandboxMode=true&usp=sharing)
 
 
+## Bayesian Optimisation: Mastering Sequential Decision Making [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuanUngredda/PhD_course/HEAD?urlpath=%2Fnotebooks%2FBayesian_Optimisation.ipynb) [![View Notebook on nbviewer](https://img.shields.io/badge/pdf-slides-red)](https://github.com/JuanUngredda/PhD_course/blob/main/slides/Bayesian%20optimization.pdf) 
+
+This session introduces Bayesian optimization to solve expensive-to-evaluate problems. The key aspects of Bayesian Optimization covered are: surrogate model, acquisition function, how to include constraints, and basics of multi-objective bayesian optimziation. **Answers fot the lab will be posted after the session**.
+
+**Lab**
+
 ## Additional Resources
 
 
