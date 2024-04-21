@@ -14,7 +14,7 @@ This session is designed to introduce Gaussian processes in a practical way. The
 
 This session introduces Bayesian optimization to solve expensive-to-evaluate problems. The key aspects of Bayesian Optimization covered are: surrogate model, acquisition function, how to include constraints, and basics of multi-objective bayesian optimziation. **Answers fot the lab will be posted after the session**.
 
-**Lab**
+**Lab**  [![lab_2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d5k-iDqVnMLnETAmL4x4TFxRtRJBrsoa#scrollTo=ntmTUroDGIpg&forceEdit=true&sandboxMode=true&usp=sharing)
 
 ## Additional Resources
 
