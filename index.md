@@ -7,7 +7,7 @@ Welcome to the site for the PhD course on Gaussian Processes and Bayesian Optimi
 
 This session is designed to introduce Gaussian processes in a practical way. The key aspects of Gaussian process covered are: basics on the uni-multivariate normal distribution, Gaussian process regression, the covariance function (aka kernels), sampling a Gaussian process, and hyperparameter tuning. **Answers fot the lab will be posted after the session**.
 
-**Lab** [![lab_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-JT5nZmXHOzYBxH6-wTCrHVZUexuJ6BG?#forceEdit=true&sandboxMode=true&usp=sharing)
+**Lab** [![lab_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-JT5nZmXHOzYBxH6-wTCrHVZUexuJ6BG?#forceEdit=true&sandboxMode=true&usp=sharing) **solutions** [![sol_1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-JT5nZmXHOzYBxH6-wTCrHVZUexuJ6BG#scrollTo=NHTJdi5hn9a2&forceEdit=true&sandboxMode=true&usp=sharing)
 
 
 ## Bayesian Optimisation: Mastering Sequential Decision Making [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuanUngredda/PhD_course/HEAD?urlpath=%2Fnotebooks%2FBayesian_Optimisation.ipynb) [![View Notebook on nbviewer](https://img.shields.io/badge/pdf-slides-red)](https://github.com/JuanUngredda/PhD_course/blob/main/slides/Bayesian%20optimization.pdf) 
